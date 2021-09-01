@@ -1,2 +1,2 @@
-# APISteam
+# APIStream
 Authentication NodeJS
